@@ -1,4 +1,9 @@
 hello class
+
 how now brown cow
 
+
+
 this is a file
+\
+I'm adding a new line.
