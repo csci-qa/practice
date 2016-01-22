@@ -1,4 +1,6 @@
 hello class
-how now brown cow
+how now brown spotted cow
 
 this is a file
+
+I modified this
