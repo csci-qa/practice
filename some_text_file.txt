@@ -1,4 +1,5 @@
 hello class
 how now brown cow
+changed now
 
 this is a file
