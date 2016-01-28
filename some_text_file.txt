@@ -1,4 +1,5 @@
 hello class
 how now brown cow
+changed now, learning how to use git
 
 this is a file
